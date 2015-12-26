@@ -27,5 +27,8 @@
   "homepage": "https://github.com/SimplexMobile/rightmove-adf",
   "devDependencies": {
     "mocha": "~2.3.4"
+  },
+  "dependencies": {
+    "request": "~2.67.0"
   }
 }
