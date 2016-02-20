@@ -4,7 +4,8 @@
   "description": "Node module for generating artefacts in the Rightmove Automated Data Feed Format for listing properties on Eurpoean portals",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
